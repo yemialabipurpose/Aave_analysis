@@ -15,9 +15,12 @@ We hope to answer these four main questions
 
 ![image](https://github.com/yemialabipurpose/Aave_analysis/assets/37623664/1dc8337d-c3e9-421a-a357-e3f3a6f4b65a)
 
-Total Borrowed for Aave V2: 
+Total Borrowed for Aave V2
 
 ![image](https://github.com/yemialabipurpose/Aave_analysis/assets/37623664/e59a07f9-93b6-498a-b850-57fda51337a1)
 
 Total Liquidity Supplied on Aave V2
+
+![image](https://github.com/yemialabipurpose/Aave_analysis/assets/37623664/9b1bd94d-1dd0-4cca-a278-6d0f2d200993)
+
 
