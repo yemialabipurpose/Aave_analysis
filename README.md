@@ -15,5 +15,12 @@ We hope to answer these four main questions
 
 ![image](https://github.com/yemialabipurpose/Aave_analysis/assets/37623664/1dc8337d-c3e9-421a-a357-e3f3a6f4b65a)
 
-Total Borrowed for Aave V2
+Total Borrowed for Aave V2: 
 
+Query Code:
+
+```
+SELECT sum(BORROWED_USD/1E9{{param_P5RO}}) AS TOTAL_BORROWED 
+FROM ethereum.aave.ez_borrows
+WHERE AAVE_VERSION = 'Aave V2'
+```
