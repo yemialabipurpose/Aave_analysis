@@ -23,4 +23,10 @@ Total Liquidity Supplied on Aave V2
 
 ![image](https://github.com/yemialabipurpose/Aave_analysis/assets/37623664/9b1bd94d-1dd0-4cca-a278-6d0f2d200993)
 
+Top 5 Borrowed Assets on Aave V2
+
+![image](https://github.com/yemialabipurpose/Aave_analysis/assets/37623664/34e28210-5d99-4e53-904f-4174305a0446)
+
+Top 5 Supplied Assets on Aave V2
+
 
