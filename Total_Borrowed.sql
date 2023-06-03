@@ -1,0 +1,3 @@
+SELECT sum(BORROWED_USD/1E9) AS TOTAL_BORROWED 
+FROM ethereum.aave.ez_borrows
+WHERE AAVE_VERSION = 'Aave V2'
