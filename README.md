@@ -13,4 +13,7 @@ We hope to answer these four main questions
 3. Total borrowing per asset
 4. Total Depsit per assest 
 
-![image](https://github.com/yemialabipurpose/Aave_analysis/assets/37623664/71be95df-00ef-42fe-acf3-47d7e7524233)
+![image](https://github.com/yemialabipurpose/Aave_analysis/assets/37623664/1dc8337d-c3e9-421a-a357-e3f3a6f4b65a)
+
+Total Borrowed for Aave V2
+
